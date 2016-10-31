@@ -1,0 +1,2 @@
+# SpringMVC_Mybatis_demo
+maven构建springMVC+mybatis
